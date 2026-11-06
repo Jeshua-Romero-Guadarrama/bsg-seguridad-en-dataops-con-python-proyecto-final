@@ -1,0 +1,38 @@
+{
+  "run_id": "89ae7a5b6f494eeeb9531101d20524f1",
+  "fecha_utc": "2026-10-30T03:29:43.754926+00:00",
+  "rol_ejecutor": "operador",
+  "hash_entrada": "bd90a012ce2eb569457632e8a74a2141f3f7344d06262a78885fd1d8854d8f6c",
+  "controles": [
+    {
+      "control": "INTEGRIDAD",
+      "estado": "SATISFACTORIO",
+      "evidencia": "hash_entrada del reporte",
+      "accion": ""
+    },
+    {
+      "control": "CIFRADO",
+      "estado": "SATISFACTORIO",
+      "evidencia": "salidas/detalle_protegido.csv",
+      "accion": ""
+    },
+    {
+      "control": "MINIMIZACION",
+      "estado": "SATISFACTORIO",
+      "evidencia": "salidas/resumen.csv",
+      "accion": ""
+    },
+    {
+      "control": "ACCESO_DENEGADO",
+      "estado": "SATISFACTORIO",
+      "evidencia": "eventos.jsonl",
+      "accion": ""
+    },
+    {
+      "control": "TRAZABILIDAD",
+      "estado": "SATISFACTORIO",
+      "evidencia": "eventos.jsonl",
+      "accion": ""
+    }
+  ]
+}

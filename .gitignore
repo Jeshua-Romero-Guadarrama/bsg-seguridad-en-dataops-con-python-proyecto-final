@@ -1,0 +1,18 @@
+.venv/
+.secrets/
+/datos/
+referencia.sha256
+__pycache__/
+*.pyc
+.pytest_cache/
+/salidas/
+# Solo se versionan las cuatro ejecuciones citadas en evidencias_lab2.md
+# (eventos, reporte y resumen de totales); el detalle con tokens no se entrega.
+/ejecuciones/*
+!/ejecuciones/89ae7a5b6f494eeeb9531101d20524f1/
+!/ejecuciones/c1b45f718e9a4147bde763489c9a09da/
+!/ejecuciones/5617740cabb54c589c4669c3d6fdbd4c/
+!/ejecuciones/a3dc46435b9c41988a4c805245be259a/
+detalle_protegido.csv
+.env
+.env.*

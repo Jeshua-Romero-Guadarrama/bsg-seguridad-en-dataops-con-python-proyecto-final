@@ -1,0 +1,42 @@
+Estructura del repositorio bsg-seguridad-en-dataops-con-python-proyecto-final
+URL del repositorio: https://github.com/Jeshua-Romero-Guadarrama/bsg-seguridad-en-dataops-con-python-proyecto-final
+Rutas relativas a la raíz del repositorio, una por línea.
+
+.github/dependabot.yml
+.github/workflows/pruebas.yml
+.gitignore
+bsg-seguridad-en-dataops-con-python-proyecto-final.txt
+comprobar_1a.py
+comprobar_lab2.py
+comprobar_preparacion_lab2.py
+ejecuciones/5617740cabb54c589c4669c3d6fdbd4c/eventos.jsonl
+ejecuciones/5617740cabb54c589c4669c3d6fdbd4c/reporte.json
+ejecuciones/89ae7a5b6f494eeeb9531101d20524f1/eventos.jsonl
+ejecuciones/89ae7a5b6f494eeeb9531101d20524f1/reporte.json
+ejecuciones/89ae7a5b6f494eeeb9531101d20524f1/salidas/resumen.csv
+ejecuciones/a3dc46435b9c41988a4c805245be259a/eventos.jsonl
+ejecuciones/a3dc46435b9c41988a4c805245be259a/reporte.json
+ejecuciones/c1b45f718e9a4147bde763489c9a09da/eventos.jsonl
+ejecuciones/c1b45f718e9a4147bde763489c9a09da/reporte.json
+evidencias_lab2.md
+GUIA_PARTICIPANTE.md
+lab1.py
+lab2.py
+preparar.py
+pruebas/conftest.py
+pruebas/prueba_auditoria.py
+pruebas/prueba_cifrado.py
+pruebas/prueba_comprobadores.py
+pruebas/prueba_control_acceso.py
+pruebas/prueba_interfaz.py
+pruebas/prueba_interfaz_auditoria.py
+pruebas/prueba_minimizacion.py
+pruebas/prueba_pipeline.py
+pruebas/prueba_preparar.py
+pruebas/prueba_registro_eventos.py
+pruebas/prueba_trazabilidad.py
+pruebas/__init__.py
+pytest.ini
+README.md
+REPASO_LAB1.md
+requirements.txt
