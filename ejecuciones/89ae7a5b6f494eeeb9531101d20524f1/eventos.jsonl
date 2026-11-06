@@ -1,0 +1,3 @@
+{"run_id": "89ae7a5b6f494eeeb9531101d20524f1", "fecha_utc": "2026-10-30T03:29:43.743606+00:00", "rol": "operador", "operacion": "ejecutar", "resultado": "PERMITIDO"}
+{"run_id": "89ae7a5b6f494eeeb9531101d20524f1", "fecha_utc": "2026-10-30T03:29:43.750991+00:00", "rol": "operador", "operacion": "pipeline", "resultado": "COMPLETADO"}
+{"run_id": "89ae7a5b6f494eeeb9531101d20524f1", "fecha_utc": "2026-10-30T03:29:43.753492+00:00", "rol": "analista", "operacion": "ejecutar", "resultado": "DENEGADO"}

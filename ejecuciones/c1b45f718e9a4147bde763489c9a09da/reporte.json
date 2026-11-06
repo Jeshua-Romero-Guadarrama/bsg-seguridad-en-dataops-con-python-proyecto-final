@@ -1,0 +1,44 @@
+{
+  "run_id": "c1b45f718e9a4147bde763489c9a09da",
+  "fecha_utc": "2026-10-30T03:29:44.375351+00:00",
+  "rol_ejecutor": "operador",
+  "hash_entrada": null,
+  "controles": [
+    {
+      "control": "INTEGRIDAD",
+      "estado": "FALLIDO",
+      "evidencia": "Comparacion con referencia confiable",
+      "accion": "Revisar origen del archivo; no procesar"
+    },
+    {
+      "control": "EJECUCION",
+      "estado": "FALLIDO",
+      "evidencia": "ValueError",
+      "accion": "Revisar permisos, integridad y entorno"
+    },
+    {
+      "control": "CIFRADO",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "MINIMIZACION",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "ACCESO_DENEGADO",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "TRAZABILIDAD",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    }
+  ]
+}

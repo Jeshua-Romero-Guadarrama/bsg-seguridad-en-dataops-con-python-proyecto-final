@@ -1,0 +1,50 @@
+{
+  "run_id": "5617740cabb54c589c4669c3d6fdbd4c",
+  "fecha_utc": "2026-10-30T03:29:44.865305+00:00",
+  "rol_ejecutor": "analista",
+  "hash_entrada": null,
+  "controles": [
+    {
+      "control": "AUTORIZACION_INICIAL",
+      "estado": "FALLIDO",
+      "evidencia": "eventos.jsonl",
+      "accion": "Usar operador"
+    },
+    {
+      "control": "EJECUCION",
+      "estado": "FALLIDO",
+      "evidencia": "PermissionError",
+      "accion": "Revisar permisos, integridad y entorno"
+    },
+    {
+      "control": "INTEGRIDAD",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "CIFRADO",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "MINIMIZACION",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "ACCESO_DENEGADO",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    },
+    {
+      "control": "TRAZABILIDAD",
+      "estado": "NO_EVALUADO",
+      "evidencia": "Sin ejecucion",
+      "accion": "Resolver bloqueo y repetir en nueva carpeta"
+    }
+  ]
+}
